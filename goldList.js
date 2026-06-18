@@ -20,6 +20,7 @@ export const GOLD_LIST = [
   "Betinho Carrero 2D",
   "Heartlake Stepping Tones Fountain",
   "If I Ran The Zoo™",
+  "Impossible",
   "JUJUTSU KAISEN: The Real 4-D — Clock Tower of Recurrence",
   "Liberty Arcade",
   "Penny Arcade",
