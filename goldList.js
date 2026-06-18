@@ -224,5 +224,20 @@ export const GOLD_LIST = [
   "Wilderness Explorers",
   "Willy's Playground",
   "Woody’s Roundup",
-  "Zoe's Tree House"
+  "Zoe's Tree House",
+  "Lazy River",
+  "Coastal Currents",
+  "Lazy Rider",
+  "Kaanapali Kooler Lazy River",
+  "Little Hooch Lazy River",
+  "Castaway Creek",
+  "Kopiko Wai Winding River™",
+  "Build-a-Raft River (Water Park)",
+  "Adventure River",
+  "Paradise River",
+  "Wildwater River",
+  "Runaway River",
+  "Run-A-Way River",
+  "TeAwa The Fearless River™",
+  "Splash River"
 ];
