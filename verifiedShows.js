@@ -10,6 +10,7 @@ export const VERIFIED_SHOWS = [
   "Country Bear Musical Jamboree",
   "Country Bear Theater",
   "Daffy Duck Stars on Parade",
+  "Detective Conan 4-D Live Show: Jewel Under the Starry Sky",
   "Disney Junior Play & Dance!",
   "Disney Movie Magic",
   "Disney's Enchanted Tiki Room",
