@@ -239,5 +239,6 @@ export const GOLD_LIST = [
   "Runaway River",
   "Run-A-Way River",
   "TeAwa The Fearless River™",
-  "Splash River"
+  "Splash River",
+  "Sunset River"
 ];
