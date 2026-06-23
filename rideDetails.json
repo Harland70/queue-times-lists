@@ -673,6 +673,34 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "5:00"
+    },
+    "A Pirate's Adventure ~ Treasures of the Seven Seas": {
+      "id": 1184,
+      "description": "An interactive, self-paced scavenger hunt in Adventureland where guests use treasure maps and magic talismans to help Captain Jack Sparrow defeat Captain Barbossa.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "manufacturer": "Walt Disney Imagineering",
+      "year_manufactured": "2013",
+      "type": "Interactive Walkthrough",
+      "land": "Adventureland",
+      "express_pass_supported": false,
+      "single_rider": false,
+      "closable_weather": false,
+      "duration": "Self-Paced"
+    },
+    "Casey Jr. Splash 'N' Soak Station": {
+      "id": 13764,
+      "description": "A whimsical, water play area in Fantasyland where guests can cool off among circus trains, monkeys, elephants, and giraffes shooting refreshing water mist.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "manufacturer": "Adirondack Studios",
+      "year_manufactured": "2012",
+      "type": "Water Play Area",
+      "land": "Fantasyland",
+      "express_pass_supported": false,
+      "single_rider": false,
+      "closable_weather": true,
+      "duration": "Self-Paced"
     }
   },
   "7": {
