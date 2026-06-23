@@ -913,6 +913,20 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "15:00"
+    },
+    "Disney Jr. Mickey Mouse Clubhouse Live!": {
+      "id": 16641,
+      "description": "An indoor live stage show in Animation Courtyard where young children can sing, dance, and play along with Mickey Mouse, Minnie, and other beloved Disney Junior characters.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "manufacturer": "Walt Disney Imagineering",
+      "year_manufactured": "2026",
+      "type": "Stage Show",
+      "land": "Animation Courtyard",
+      "express_pass_supported": false,
+      "single_rider": false,
+      "closable_weather": false,
+      "duration": "10:00"
     }
   },
   "8": {
