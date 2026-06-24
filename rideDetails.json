@@ -4108,7 +4108,7 @@
       "closable_weather": true,
       "duration": "1:00"
     },
-    "Candymonium  ": {
+    "Candymonium": {
       "id": 7977,
       "description": "Hersheypark's tallest, fastest, and longest hyper coaster, reaching speeds of 76 mph with multiple airtime hills in Chocolatetown.",
       "height_min_inches": 54,
@@ -4248,7 +4248,7 @@
       "closable_weather": true,
       "duration": "1:00"
     },
-    "Comet  ": {
+    "Comet": {
       "id": 1991,
       "description": "A historic, classic wooden out-and-back roller coaster featuring multiple drops and quick turns in The Hollow area.",
       "height_min_inches": 42,
@@ -4542,7 +4542,7 @@
       "closable_weather": true,
       "duration": "1:30"
     },
-    "Mini Pirate  ": {
+    "Mini Pirate": {
       "id": 6461,
       "description": "A children's swinging pirate ship ride that rocks back and forth at gentle angles in Founder's Way.",
       "height_min_inches": null,
@@ -4990,7 +4990,7 @@
       "closable_weather": true,
       "duration": "1:50"
     },
-    "Wildcat's Revenge  ": {
+    "Wildcat's Revenge": {
       "id": 6564,
       "description": "A thrilling wood-and-steel hybrid coaster by RMC, featuring an 82-degree drop, 4 inversions, and a top speed of 62 mph.",
       "height_min_inches": 48,
@@ -7340,7 +7340,7 @@
       "closable_weather": true,
       "duration": "2:00"
     },
-    "Snuffy's Elephant Romp ": {
+    "Snuffy's Elephant Romp": {
       "id": 1516,
       "description": "An aerial carousel ride where children fly in elephant-shaped vehicles themed after Mr. Snuffleupagus.",
       "height_min_inches": null,
@@ -7382,7 +7382,7 @@
       "closable_weather": true,
       "duration": "1:30"
     },
-    "Gwazi Gliders ": {
+    "Gwazi Gliders": {
       "id": 1521,
       "description": "A hang-glider themed aerial carousel ride for younger children, swinging them gently around in double seats.",
       "height_min_inches": null,
@@ -7872,7 +7872,7 @@
       "closable_weather": true,
       "duration": "1:30"
     },
-    "Ratatouille : L’Aventure Totalement Toquée de Rémy​": {
+    "Ratatouille : L’Aventure Totalement Toquée de Rémy": {
       "id": 37,
       "description": "Shrink to the size of a mouse for a 3D trackless dark ride through Gusteau's kitchen, dodging sweeps and steam on a wild chase.",
       "height_min_inches": null,
@@ -23204,7 +23204,7 @@
       "closable_weather": true,
       "duration": "1:30"
     },
-    "Harry Potter and the Forbidden Journey™ ": {
+    "Harry Potter and the Forbidden Journey™": {
       "id": 12065,
       "description": "A thrilling multi-sensory dark ride featuring a robotic arm system that flies guests through iconic scenes, battling Dementors and dragons in Hogwarts.",
       "height_min_inches": 48,
