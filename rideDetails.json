@@ -5973,6 +5973,54 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "9:00"
+    },
+    "WEB SLINGERS: A Spider-Man Adventure Single Rider": {
+      "id": 10907,
+      "description": "Fill empty seats on Spidey's high-tech interactive 3D ride. Use hand gestures to sling webs and disable Spider-Bots.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Walt Disney Imagineering",
+      "year_manufactured": "2021",
+      "type": "Interactive 3D Dark Ride",
+      "land": "Avengers Campus"
+    },
+    "Radiator Springs Racers Single Rider": {
+      "id": 10904,
+      "description": "Fill empty seats on a high-speed slot car race through Ornament Valley. Speeds reach 40 mph past Cars characters.",
+      "height_min_inches": 40,
+      "height_min_cm": 102,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Dynamic Attractions",
+      "year_manufactured": "2012",
+      "type": "Slot Car Racing Dark Ride",
+      "land": "Cars Land"
+    },
+    "Silly Symphony Swings Single Rider": {
+      "id": 10905,
+      "description": "Fill empty seats on this classic wave swinger. Swing chairs tilt and rotate in a wide loop over the boardwalk.",
+      "height_min_inches": 40,
+      "height_min_cm": 102,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zierer",
+      "year_manufactured": "2010",
+      "type": "Wave Swinger",
+      "land": "Pixar Pier"
+    },
+    "Incredicoaster Single Rider": {
+      "id": 10906,
+      "description": "Fill empty seats on this high-speed steel coaster. Speeds reach 55 mph past Elastigirl and Jack-Jack.",
+      "height_min_inches": 48,
+      "height_min_cm": 122,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Intamin",
+      "year_manufactured": "2018",
+      "type": "Launched Steel Coaster",
+      "land": "Pixar Pier"
     }
   },
   "19": {
@@ -12655,6 +12703,18 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "2:00"
+    },
+    "Runaway Rapids": {
+      "id": 5031,
+      "description": "An action water river slide inside Cedar Point Shores. Ride inner tubes through geysers, tipping buckets, and rapids.",
+      "height_min_inches": 42,
+      "height_min_cm": 107,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "WhiteWater West",
+      "year_manufactured": "1995",
+      "type": "Water Action River",
+      "land": "Cedar Point Shores"
     }
   },
   "51": {
@@ -14089,6 +14149,30 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "2:30"
+    },
+    "Winja‘s Fear": {
+      "id": 6828,
+      "description": "A spinning steel indoor coaster featuring vertical lifts, tilting tracks, and sudden drops in the Wuze Town fantasy world.",
+      "height_min_inches": 47,
+      "height_min_cm": 120,
+      "height_max_inches": 79,
+      "height_max_cm": 200,
+      "manufacturer": "Maurer Rides",
+      "year_manufactured": "2002",
+      "type": "Spinning Roller Coaster",
+      "land": "Wuze Town"
+    },
+    "Winja‘s Force": {
+      "id": 6830,
+      "description": "The twin counterpart spinning indoor coaster in Wuze Town, featuring tilting tracks and a winding coaster layout.",
+      "height_min_inches": 47,
+      "height_min_cm": 120,
+      "height_max_inches": 79,
+      "height_max_cm": 200,
+      "manufacturer": "Maurer Rides",
+      "year_manufactured": "2002",
+      "type": "Spinning Roller Coaster",
+      "land": "Wuze Town"
     }
   },
   "58": {
@@ -31879,6 +31963,178 @@
       "year_manufactured": "1994",
       "type": "Family Wooden Coaster",
       "land": "Main"
+    }
+  },
+  "52": {
+    "The TEMPLE": {
+      "id": 5548,
+      "description": "Board a tracking car for an interactive Egyptian dark ride. Use laser guns to shoot targets, activate animations, and score points.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Sally Corporation",
+      "year_manufactured": "2010",
+      "type": "Interactive Dark Ride",
+      "land": "Adventure Land"
+    },
+    "X-treme Racers": {
+      "id": 5549,
+      "description": "A thrilling Wild Mouse coaster reaching speeds of 35 mph on a looping, winding track with sudden drops and tight hairpin turns.",
+      "height_min_inches": 47,
+      "height_min_cm": 120,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Mack Rides",
+      "year_manufactured": "2002",
+      "type": "Wild Mouse Coaster",
+      "land": "Adventure Land"
+    },
+    "NINJAGO The Ride": {
+      "id": 5551,
+      "description": "A high-tech 4D dark ride where you control fireballs, lightning, and ice waves using hand gestures to defeat the Great Devourer.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Triotech",
+      "year_manufactured": "2016",
+      "type": "Interactive 4D Dark Ride",
+      "land": "NINJAGO World"
+    },
+    "Flying Eagle": {
+      "id": 5554,
+      "description": "Tear through the air on this Zierer family coaster, plunging down from Eagle Rock and sweeping past animated LEGO animals.",
+      "height_min_inches": 39,
+      "height_min_cm": 100,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zierer",
+      "year_manufactured": "2018",
+      "type": "Family Roller Coaster",
+      "land": "LEGOREDO Town"
+    },
+    "LEGO® Canoe": {
+      "id": 5546,
+      "description": "Paddle through a wild water rapids canal inside LEGOREDO Town, encountering LEGO forest animals before a final splash drop.",
+      "height_min_inches": 39,
+      "height_min_cm": 100,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Intamin",
+      "year_manufactured": "1992",
+      "type": "Log Flume Water Ride",
+      "land": "LEGOREDO Town"
+    },
+    "Arctic Icebreakers": {
+      "id": 13884,
+      "description": "Navigate a customized, interactive LEGO boat channel. Captain your miniature vessel through icebergs and waterways.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Legoland",
+      "year_manufactured": "2012",
+      "type": "Interactive Boat Attraction",
+      "land": "Polar Land"
+    },
+    "Polar X-plorer": {
+      "id": 5553,
+      "description": "A steel family coaster featuring a unique 5-meter vertical freefall drop drop element and views of real penguins.",
+      "height_min_inches": 47,
+      "height_min_cm": 120,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zierer",
+      "year_manufactured": "2012",
+      "type": "Steel Roller Coaster",
+      "land": "Polar Land"
+    },
+    "Apocalypseburg Sky Battle": {
+      "id": 8323,
+      "description": "Control your own flight on this interactive plane ride. Roll and spin upside-down as you soar up to 14 meters high.",
+      "height_min_inches": 51,
+      "height_min_cm": 130,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Gerstlauer",
+      "year_manufactured": "2021",
+      "type": "Sky Fly Flat Ride",
+      "land": "THE LEGO MOVIE World"
+    },
+    "Emmet’s Flying Adventure - Masters of Flight": {
+      "id": 8324,
+      "description": "Fly through the LEGO Movie universe on Scandinavia's first flying theater, featuring a giant 180-degree dome screen.",
+      "height_min_inches": 39,
+      "height_min_cm": 100,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Brogent Technologies",
+      "year_manufactured": "2021",
+      "type": "Flying Theater",
+      "land": "THE LEGO MOVIE World"
+    }
+  },
+  "316": {
+    "Daddy Pig's Roller Coaster": {
+      "id": 11229,
+      "description": "Ride in Daddy Pig's red car on this kid-friendly steel coaster. Travel along gentle curves and small hills.",
+      "height_min_inches": 36,
+      "height_min_cm": 91,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zamperla",
+      "year_manufactured": "2022",
+      "type": "Junior Roller Coaster",
+      "land": "Peppa Pig Theme Park"
+    },
+    "Grampy Rabbit's Dinosaur Adventure": {
+      "id": 11230,
+      "description": "Ride a friendly green dinosaur along a winding track, passing cartoon characters and primeval trees.",
+      "height_min_inches": 34,
+      "height_min_cm": 86,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Metallbau Emmeln",
+      "year_manufactured": "2022",
+      "type": "Kiddie Track Ride",
+      "land": "Peppa Pig Theme Park"
+    },
+    "Grandad Dog’s Pirate Boat Ride": {
+      "id": 11228,
+      "description": "Set sail on a pirate-themed boat ride. Spin and float gently through a looping water channel.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Metallbau Emmeln",
+      "year_manufactured": "2022",
+      "type": "Kiddie Boat Ride",
+      "land": "Peppa Pig Theme Park"
+    },
+    "Mr. Bull's High Striker": {
+      "id": 11231,
+      "description": "A junior-sized drop tower designed for little daredevils. Experience gentle drops and rises.",
+      "height_min_inches": 36,
+      "height_min_cm": 91,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zamperla",
+      "year_manufactured": "2022",
+      "type": "Kiddie Drop Tower",
+      "land": "Peppa Pig Theme Park"
+    },
+    "Peppa Pig’s Balloon Ride": {
+      "id": 11227,
+      "description": "Rise high in colorful hot-air balloons. A colorful family balloon spinner offering great views of the park.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Technical Park",
+      "year_manufactured": "2022",
+      "type": "Kiddie Balloon Spinner",
+      "land": "Peppa Pig Theme Park"
     }
   }
 }
