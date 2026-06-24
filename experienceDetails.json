@@ -240,5 +240,82 @@
       "setting": "Indoor",
       "gets_wet": false
     }
+  },
+  "3": {
+    "AMAZU: Treetop Adventure": {
+      "id": 59,
+      "description": "A raised adventure trail through the AMAZU habitat where children climb, swing, and slide among real spider and squirrel monkeys.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "year_opened": "2014",
+      "type": "Adventure Playground",
+      "land": "AMAZU",
+      "express_pass_supported": false,
+      "closable_weather": true,
+      "duration": null,
+      "accessibility": "Treetop area not wheelchair accessible; ground-level play area available",
+      "setting": "Outdoor",
+      "gets_wet": false
+    },
+    "Canopy Capers": {
+      "id": 62,
+      "description": "A fantasy treehouse rope bridge attraction where children navigate bouncing walkways, suspended bridges, and tunnels high above the ground.",
+      "height_min_inches": null,
+      "height_min_cm": 140,
+      "year_opened": "2004",
+      "type": "Adventure Playground",
+      "land": "Land of the Dragons",
+      "express_pass_supported": false,
+      "closable_weather": true,
+      "duration": null,
+      "accessibility": "Must walk unaided; max height 1.4m",
+      "setting": "Outdoor",
+      "gets_wet": false
+    },
+    "Dragon's Playhouse - Soft Play": {
+      "id": 66,
+      "description": "A large indoor soft play centre with slides, ball pits, climbing frames, and a bouncy castle, split into toddler and junior zones.",
+      "height_min_inches": null,
+      "height_min_cm": 140,
+      "year_opened": "2004",
+      "type": "Soft Play",
+      "land": "Land of the Dragons",
+      "express_pass_supported": false,
+      "closable_weather": false,
+      "duration": null,
+      "accessibility": "Wheelchair accessible at ground level; socks required, no shoes",
+      "setting": "Indoor",
+      "gets_wet": false
+    },
+    "Room on the Broom - A Magical Journey": {
+      "id": 6381,
+      "description": "An interactive walkthrough inside Burnt Stub Mansion where families help the Witch find her lost belongings through scenes with animatronics and projection mapping.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "year_opened": "2019",
+      "type": "Interactive Walkthrough",
+      "land": "Mystic East",
+      "express_pass_supported": false,
+      "closable_weather": false,
+      "duration": "10:00",
+      "accessibility": "Wheelchair accessible",
+      "setting": "Indoor",
+      "gets_wet": false
+    },
+    "Rubble & Rocky's Play Zone": {
+      "id": 16466,
+      "description": "A construction and recycling themed play area where children climb, slide, and explore alongside Rubble's dig site and Rocky's recycle yard.",
+      "height_min_inches": null,
+      "height_min_cm": null,
+      "year_opened": "2025",
+      "type": "Themed Playground",
+      "land": "World of PAW Patrol",
+      "express_pass_supported": false,
+      "closable_weather": true,
+      "duration": null,
+      "accessibility": "Wheelchair accessible at ground level",
+      "setting": "Outdoor",
+      "gets_wet": false
+    }
   }
 }

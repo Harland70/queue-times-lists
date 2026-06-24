@@ -786,20 +786,6 @@
       "closable_weather": true,
       "duration": "2:00"
     },
-    "Dragon's Playhouse - Soft Play": {
-      "id": 66,
-      "description": "An indoor soft play area located in Land of the Dragons, featuring climbing nets, slides, and play zones for younger children.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Unknown",
-      "year_manufactured": "2004",
-      "type": "Soft Play Area",
-      "land": "Land of the Dragons",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "Self-Paced"
-    },
     "Griffin's Galleon": {
       "id": 87,
       "description": "A fun Kontiki-style flat ride that rocks back and forth along a curved track while spinning, located in the Land of the Dragons.",
@@ -911,20 +897,6 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "2:00"
-    },
-    "Room on the Broom - A Magical Journey": {
-      "id": 6381,
-      "description": "An interactive walkthrough attraction based on the beloved children's book, featuring physical sets, projection mapping, and games.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Merlin Magic Making",
-      "year_manufactured": "2019",
-      "type": "Interactive Walkthrough",
-      "land": "Wild Woods",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "Self-Paced"
     },
     "Sea Dragons": {
       "id": 77,
