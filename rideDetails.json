@@ -1487,6 +1487,30 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "15:00"
+    },
+    "Indiana Jones and the Temple of Peril Single Rider": {
+      "id": 7306,
+      "description": "A steel roller coaster looping through ancient ruins in a single rider queue.",
+      "height_min_inches": 55,
+      "height_min_cm": 140,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Intamin",
+      "year_manufactured": "1993",
+      "type": "Roller Coaster Single Rider",
+      "land": "Adventureland"
+    },
+    "Star Wars Hyperspace Mountain Single Rider": {
+      "id": 7278,
+      "description": "An indoor launched steel coaster styled after Star Wars space battles in a single rider queue.",
+      "height_min_inches": 47,
+      "height_min_cm": 120,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Vekoma",
+      "year_manufactured": "1995",
+      "type": "Launched Coaster Single Rider",
+      "land": "Discoveryland"
     }
   },
   "5": {
@@ -1713,6 +1737,30 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "5:00"
+    },
+    "Test Track Presented by Chevrolet Single Rider": {
+      "id": 10900,
+      "description": "Design and test slot-car style track vehicles at high speeds in a single rider queue.",
+      "height_min_inches": 40,
+      "height_min_cm": 102,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Dynamic Attractions",
+      "year_manufactured": "1999",
+      "type": "High Speed Slot Car Single Rider",
+      "land": "World Discovery"
+    },
+    "Remy's Ratatouille Adventure Single Rider": {
+      "id": 10915,
+      "description": "A trackless 3D dark ride shrinking guests to rat size in a single rider queue.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Oceaneering",
+      "year_manufactured": "2021",
+      "type": "Trackless 3D Dark Ride Single Rider",
+      "land": "World Showcase"
     }
   },
   "6": {
@@ -2417,6 +2465,42 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "10:00"
+    },
+    "Millennium Falcon: Smugglers Run Single Rider": {
+      "id": 10902,
+      "description": "Fly the Millennium Falcon on a dynamic interactive smuggling mission in a single rider queue.",
+      "height_min_inches": 38,
+      "height_min_cm": 97,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative / Disney",
+      "year_manufactured": "2019",
+      "type": "Simulator Single Rider",
+      "land": "Star Wars: Galaxy's Edge"
+    },
+    "Star Wars: Rise of the Resistance Single Rider": {
+      "id": 14531,
+      "description": "Join the Resistance in a massive interactive battle against the First Order in a single rider queue.",
+      "height_min_inches": 40,
+      "height_min_cm": 102,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Disney / Oceaneering",
+      "year_manufactured": "2019",
+      "type": "Dark Ride Single Rider",
+      "land": "Star Wars: Galaxy's Edge"
+    },
+    "Rock ’n’ Roller Coaster Starring The Muppets": {
+      "id": 16342,
+      "description": "Launch into a high-speed indoor roller coaster flight through Hollywood, rethemed in 2026 to Muppets music.",
+      "height_min_inches": 48,
+      "height_min_cm": 122,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Vekoma",
+      "year_manufactured": "2026",
+      "type": "Launched Roller Coaster",
+      "land": "Sunset Boulevard"
     }
   },
   "8": {
@@ -2643,6 +2727,18 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "12:00"
+    },
+    "Expedition Everest - Legend of the Forbidden Mountain Single Rider": {
+      "id": 14533,
+      "description": "A thrilling steel runaway train coaster fleeing the Yeti in a single rider queue.",
+      "height_min_inches": 44,
+      "height_min_cm": 112,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Vekoma",
+      "year_manufactured": "2006",
+      "type": "Steel Coaster Single Rider",
+      "land": "Asia"
     }
   },
   "9": {
@@ -3683,6 +3779,18 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "2:30"
+    },
+    "Kållerado": {
+      "id": 480,
+      "description": "A popular family river rapids rafting ride featuring splashing waves, waterfalls, and rapid currents.",
+      "height_min_inches": 43,
+      "height_min_cm": 110,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Intamin",
+      "year_manufactured": "1997",
+      "type": "River Rapids",
+      "land": "Liseberg"
     }
   },
   "12": {
@@ -5621,6 +5729,30 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "5:00"
+    },
+    "Tiana's Bayou Adventure Single Rider": {
+      "id": 14326,
+      "description": "Join Tiana and Louis on a musical log flume adventure down the bayou in a single rider queue.",
+      "height_min_inches": 40,
+      "height_min_cm": 102,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Walt Disney Imagineering / Custom",
+      "year_manufactured": "2024",
+      "type": "Log Flume Single Rider",
+      "land": "Critter Country"
+    },
+    "Millennium Falcon: Smugglers Run Single Rider": {
+      "id": 10903,
+      "description": "Fly the Millennium Falcon on a dynamic interactive smuggling mission in a single rider queue.",
+      "height_min_inches": 38,
+      "height_min_cm": 97,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative / Disney",
+      "year_manufactured": "2019",
+      "type": "Simulator Single Rider",
+      "land": "Star Wars: Galaxy's Edge"
     }
   },
   "17": {
@@ -6767,6 +6899,18 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "2:00"
+    },
+    "ALL NEW! - Expedition Odyssey Fire & Ice": {
+      "id": 16542,
+      "description": "A high-speed interactive multi-launch roller coaster themed to arctic search and rescue, with intense drops.",
+      "height_min_inches": 48,
+      "height_min_cm": 122,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Intamin",
+      "year_manufactured": "2026",
+      "type": "Launched Roller Coaster",
+      "land": "SeaWorld"
     }
   },
   "23": {
@@ -18219,6 +18363,42 @@
       "closable_weather": true,
       "duration": "2:15",
       "id": 15384
+    },
+    "Camp Jurassic™": {
+      "id": 6008,
+      "description": "A multi-level volcanic playground featuring climbing nets, caves, and interactive water cannons.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative",
+      "year_manufactured": "1999",
+      "type": "Play Area",
+      "land": "Jurassic Park"
+    },
+    "Ollivanders™ Experience in Hogsmeade™": {
+      "id": 13098,
+      "description": "An interactive show experience where a wand chooses a wizard at Ollivanders wand shop.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative",
+      "year_manufactured": "2010",
+      "type": "Interactive Show",
+      "land": "The Wizarding World of Harry Potter - Hogsmeade"
+    },
+    "Me Ship, The Olive®": {
+      "id": 6013,
+      "description": "A colorful Popeye-themed children's play ship featuring interactive water slides and water guns.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative",
+      "year_manufactured": "1999",
+      "type": "Play Area",
+      "land": "Toon Lagoon"
     }
   },
   "65": {
@@ -23243,6 +23423,18 @@
       "year_manufactured": "2019",
       "type": "Children's Drop Tower",
       "land": "The LEGO Movie World"
+    },
+    "Cole’s Rock Climb": {
+      "id": 15060,
+      "description": "A horizontal, low-level rock climbing wall designed for kids in LEGO NINJAGO World.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Custom",
+      "year_manufactured": "2017",
+      "type": "Children's Climbing Activity",
+      "land": "LEGO NINJAGO World"
     }
   },
   "284": {
@@ -24217,6 +24409,18 @@
       "single_rider": true,
       "closable_weather": false,
       "duration": "4:30"
+    },
+    "Camp Jurassic™": {
+      "id": 13911,
+      "description": "An interactive multi-level indoor play playground with cargo nets, slides, and caves in Jurassic World.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Universal Creative",
+      "year_manufactured": "2021",
+      "type": "Play Area",
+      "land": "Jurassic World Isla Nublar"
     }
   },
   "334": {
@@ -25099,6 +25303,42 @@
       "year_manufactured": "2009",
       "type": "Wave Swinger",
       "land": "Land der Vergessenen"
+    },
+    "COLOSSOS - KAMPF DER GIGANTEN": {
+      "id": 2038,
+      "description": "A massive, prefabricated wooden roller coaster featuring intense drops, rethemed with a giant monster sculpture.",
+      "height_min_inches": 55,
+      "height_min_cm": 140,
+      "height_max_inches": 77,
+      "height_max_cm": 195,
+      "manufacturer": "Intamin",
+      "year_manufactured": "2001",
+      "type": "Wooden Roller Coaster",
+      "land": "Land der Vergessenen"
+    },
+    "DESERT RACE": {
+      "id": 2037,
+      "description": "A thrilling launched steel roller coaster accelerating to 100 km/h in under 2 seconds.",
+      "height_min_inches": 55,
+      "height_min_cm": 140,
+      "height_max_inches": 77,
+      "height_max_cm": 195,
+      "manufacturer": "Intamin",
+      "year_manufactured": "2007",
+      "type": "Launched Roller Coaster",
+      "land": "Land der Vergessenen"
+    },
+    "WÜSTENFLITZER": {
+      "id": 7360,
+      "description": "A children's driving school attraction designed for young drivers to learn traffic rules.",
+      "height_min_inches": 39,
+      "height_min_cm": 100,
+      "height_max_inches": 63,
+      "height_max_cm": 160,
+      "manufacturer": "Custom",
+      "year_manufactured": "2015",
+      "type": "Driving School",
+      "land": "Land der Vergessenen"
     }
   },
   "31": {
@@ -25343,6 +25583,30 @@
       "year_manufactured": "2017",
       "type": "Steel Launched Coaster",
       "land": "Main"
+    },
+    "Dolphin Dive": {
+      "id": 1230,
+      "description": "A kid-friendly spinning flat ride lifting guests up in dolphin-themed vehicles.",
+      "height_min_inches": 36,
+      "height_min_cm": 91,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zamperla",
+      "year_manufactured": "2002",
+      "type": "Children's Flat Ride",
+      "land": "Bay of Play"
+    },
+    "Spinning Reef": {
+      "id": 1231,
+      "description": "A kid-sized mini Ferris wheel ride that spins slowly.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zamperla",
+      "year_manufactured": "2002",
+      "type": "Children's Ferris Wheel",
+      "land": "Bay of Play"
     }
   },
   "20": {
@@ -27103,6 +27367,42 @@
       "year_manufactured": "1977",
       "type": "Log Flume",
       "land": "Water Splash"
+    },
+    "Flying Orcas": {
+      "id": 13410,
+      "description": "A family flat ride lifting and spinning riders inside whale-themed cars.",
+      "height_min_inches": 43,
+      "height_min_cm": 110,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "HUSS Rides",
+      "year_manufactured": "1998",
+      "type": "Spinning Family Ride",
+      "land": "Hansa-Park"
+    },
+    "HANSA Carousel": {
+      "id": 13401,
+      "description": "A beautiful classic carousel featuring hand-painted Hanseatic cities artwork and wooden horses.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Custom",
+      "year_manufactured": "1977",
+      "type": "Carousel",
+      "land": "Hansa-Park"
+    },
+    "HANSA-PARK Express": {
+      "id": 13400,
+      "description": "A scenic park train ride offering relaxing tours of the park's landscaped gardens.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Custom",
+      "year_manufactured": "1977",
+      "type": "Miniature Train",
+      "land": "Hansa-Park"
     }
   },
   "317": {
@@ -30117,6 +30417,18 @@
       "year_manufactured": "2021",
       "type": "Kiddie Water Slides",
       "land": "South Bay Shores"
+    },
+    "NorCall Wipeout": {
+      "id": 7678,
+      "description": "A fast-spinning flat ride that tilts and rotates riders in open-air cars.",
+      "height_min_inches": 48,
+      "height_min_cm": 122,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Chance Rides",
+      "year_manufactured": "1994",
+      "type": "Wipeout",
+      "land": "All-American Plaza"
     }
   },
   "47": {
@@ -30877,6 +31189,30 @@
       "year_manufactured": "2018",
       "type": "Tilt-A-Whirl",
       "land": "Le Village"
+    },
+    "Ednör": {
+      "id": 5440,
+      "description": "A high-speed suspended looping roller coaster with five intense inversions over water.",
+      "height_min_inches": 52,
+      "height_min_cm": 132,
+      "height_max_inches": 79,
+      "height_max_cm": 200,
+      "manufacturer": "Vekoma",
+      "year_manufactured": "2010",
+      "type": "Suspended Looping Coaster",
+      "land": "La Ronde"
+    },
+    "Pommes d’Api": {
+      "id": 5412,
+      "description": "A classic spinning tea-cup style children's ride shaped like apples.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Zamperla",
+      "year_manufactured": "1983",
+      "type": "Children's Cup Ride",
+      "land": "La Ronde"
     }
   },
   "10": {
@@ -32681,6 +33017,60 @@
       "year_manufactured": "2017",
       "type": "Drop Towers",
       "land": "Ferrari Land"
+    }
+  },
+  "146": {
+    "FlowRider": {
+      "id": 17114,
+      "description": "A continuous sheet-wave surfing simulator allowing guests to bodyboard or stand-up surf.",
+      "height_min_inches": 43,
+      "height_min_cm": 110,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "FlowRider Inc.",
+      "year_manufactured": "2002",
+      "type": "Wave Simulator",
+      "land": "Wet'n'Wild"
+    },
+    "Mammoth Falls": {
+      "id": 17112,
+      "description": "A multi-person family raft slide winding down long open-air channels.",
+      "height_min_inches": 39,
+      "height_min_cm": 100,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "ProSlide",
+      "year_manufactured": "1998",
+      "type": "Family Raft Slide",
+      "land": "Wet'n'Wild"
+    }
+  },
+  "128": {
+    "Merry-Go-Round": {
+      "id": 17083,
+      "description": "A beautifully decorated, classic carousel featuring gilded creatures and traditional melodies.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Custom",
+      "year_manufactured": "1977",
+      "type": "Carousel",
+      "land": "Whiskers Harbour"
+    }
+  },
+  "54": {
+    "Merry-Go-Round": {
+      "id": 16433,
+      "description": "A classic nostalgically styled carousel featuring beautiful horses, ostriches, and carriages.",
+      "height_min_inches": 0,
+      "height_min_cm": 0,
+      "height_max_inches": null,
+      "height_max_cm": null,
+      "manufacturer": "Wooddesign",
+      "year_manufactured": "2004",
+      "type": "Carousel",
+      "land": "Plopsaland"
     }
   }
 }
