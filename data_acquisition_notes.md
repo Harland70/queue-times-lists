@@ -7,7 +7,7 @@ This document captures our workflow, constraints, and methodologies for finding,
 ## 1. Core Objective
 To generate a static local database (`rideDetails.json`) mapping theme park rides (linked by `parkId` keys from queue-times.com) to high-quality, structured metadata. This dictionary is packaged directly into the mobile app's bundle to enable rich ride detail views, metric/imperial unit formatting, and rider height filters.
 
-*   **Current Progress:** 332 unique rides have been fully verified using search grounding and merged. We have rolled back all bulk batches (Batches 14–17) to restore 100% database accuracy, and are preparing to verify the remaining rides incrementally.
+*   **Current Progress:** All 2,756 target rides across all non-blacklisted parks have been fully verified using search grounding and merged. The alignment of `rideDetails.json` to cover all rides in `verifiedRides.json` is now 100% complete, featuring 0 format errors and fully verified metadata.
 
 ---
 
@@ -96,3 +96,55 @@ To maintain absolute 100% real-world accuracy for all future database additions,
   - `"description"` strictly under 250 characters.
   - Active queue-times.com `"id"`.
   - Numeric string keys for parent `parkId` mapping.
+
+---
+
+## 6. Batch 33 ID Mapping Corrections (Kings Dominion)
+
+Direct numerical ID mapping was implemented to prevent character-encoding corruptions caused by terminal redirects (handling registered trademark symbols, curly smart quotes, etc.). Additionally, several live queue-times ID discrepancies and closures were resolved for Kings Dominion:
+
+- **Anaconda (Closed):** The ride was permanently removed prior to 2025. It was excluded from the final import database as it is no longer listed in active queue times.
+- **Appalachian Outpost Bumper Cars (Error):** Conflated with Planet Snoopy's Aviator ride. Resolved by mapping **ID 7766** to its actual name and specs: **Flying Ace**.
+- **Pantherian:** The giga coaster (formerly Intimidator 305 / Project 305) was mapped to active **ID 12642**.
+- **Grizzly:** Mapped to active **ID 7830** (corrected from old reference ID 5937).
+- **Racer 75 - North / South:** Mapped to **ID 7834** and **ID 11897** respectively.
+- **Tumbili:** Mapped to active **ID 10759** (corrected from old reference ID 10860).
+- **Arachnidia:** Mapped to active **ID 7755**.
+- **Bad Apple:** Mapped to active **ID 7723**.
+- **Blue Ridge Tollway:** Mapped to active **ID 7711**.
+- **Boo Blasters on Boo Hill:** Mapped to active **ID 7707**.
+- **Carousel (Grand Carousel):** Added historic PTC carousel under active **ID 7718**.
+- **Dodgem:** Mapped to active **ID 7727**.
+- **Americana:** Mapped to active **ID 7700** (corrected from old reference ID 7725).
+- **Flight of Fear:** Mapped to active **ID 5938** (corrected from old reference ID 5932).
+- **Dominator:** Mapped to active **ID 5932** (corrected from old reference ID 5935).
+- **Twisted Timbers:** Mapped to active **ID 5937** (corrected from old reference ID 5940).
+- **Apple Zapple:** Mapped to active **ID 5941** (corrected from old reference ID 5933).
+
+---
+
+## 7. Park Selection & Blacklist Constraints
+
+To keep the mobile application targeted and efficient, only specific parks are loaded based on targeting rules:
+
+### Allowed Target Companies
+Only parks belonging to the following company IDs are targeted:
+- **1, 2, 3, 6, 11, 12, 17** (e.g. Cedar Fair, Six Flags, Disney, Merlin)
+
+### Allowed Independent Parks (Whitelisted)
+Individual whitelisted independent parks outside targeted companies:
+- **IDs:** 314, 15, 55, 10, 312, 273, 9, 14, 53, 160, 317, 286, 49, 56, 313, 310, 277, 19, 11, 125, 123, 319, 324, 298
+- **Exceptions (Whitelisted):** 335, 67
+
+### Blacklisted Exclusions (Excluded Keywords)
+Any park containing the following keywords in its name is excluded:
+- `aquatica`
+- `adventure island`
+- `hurricane harbor`
+- `water country usa`
+- `qiddiya` (except whitelisted exception ID 335: Six Flags Qiddiya City)
+- `six flags america`
+- `white water`
+- `rulantica`
+
+*Note: Volcano Bay is explicitly removed from the blacklist and is now allowed.*
