@@ -1236,20 +1236,6 @@
       "closable_weather": true,
       "duration": "1:30"
     },
-    "La Tanière du Dragon": {
-      "id": 2710,
-      "description": "Venture deep beneath Sleeping Beauty Castle to discover a massive, slumbering animatronic dragon that occasionally wakes, snorts smoke, and roars.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Walt Disney Imagineering",
-      "year_manufactured": "1992",
-      "type": "Walkthrough Attraction",
-      "land": "Fantasyland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "Self-Paced"
-    },
     "Le Carrousel de Lancelot": {
       "id": 16,
       "description": "Mount a beautifully decorated, hand-carved wooden horse or sit in a majestic chariot on a classic fairytale carousel spinning to Disney organ music.",
@@ -1306,20 +1292,6 @@
       "closable_weather": true,
       "duration": "2:00"
     },
-    "Mickey’s PhilharMagic": {
-      "id": 2707,
-      "description": "Put on 3D glasses for a spectacular 4D musical show starring Donald Duck as he gets swept into some of Disney's most famous animated musical numbers.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Walt Disney Imagineering",
-      "year_manufactured": "2018",
-      "type": "3D/4D Film Show",
-      "land": "Discoveryland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "12:00"
-    },
     "Orbitron®": {
       "id": 7,
       "description": "Pilot your own retro-futuristic spaceship inspired by Leonardo da Vinci's drawings, controlling your altitude as you spin high above Tomorrowland.",
@@ -1362,20 +1334,6 @@
       "closable_weather": false,
       "duration": "6:00"
     },
-    "Pirate Galleon": {
-      "id": 2705,
-      "description": "Explore a realistic, anchored pirate ship to look for hidden passageways, climb the decks, and enjoy scenic views of Adventureland's lagoon.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Walt Disney Imagineering",
-      "year_manufactured": "1992",
-      "type": "Walkthrough Attraction",
-      "land": "Adventureland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
-    },
     "Pirates of the Caribbean": {
       "id": 3,
       "description": "Set sail on a classic dark boat ride through pirate-infested waters, featuring detailed animatronics, battles, drops, and appearances by Jack Sparrow.",
@@ -1389,20 +1347,6 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "9:00"
-    },
-    "Pirates' Beach": {
-      "id": 2704,
-      "description": "Let young adventurers run wild in this outdoor pirate-themed play area featuring rope bridges, slides, and paths nestled in the heart of Adventureland.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Walt Disney Imagineering",
-      "year_manufactured": "1992",
-      "type": "Playground",
-      "land": "Adventureland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
     },
     "River Rogue Keelboats": {
       "id": 27,
