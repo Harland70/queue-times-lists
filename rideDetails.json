@@ -16666,20 +16666,6 @@
       "closable_weather": true,
       "duration": "2:40"
     },
-    "Gremmie Lagoon": {
-      "id": 13609,
-      "description": "Play in a dedicated interactive water playground for younger kids, featuring small slides and friendly animal sculptures.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Knott's",
-      "year_manufactured": "1989",
-      "type": "Children's Water Playground",
-      "land": "Knott's Soak City",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
-    },
     "HangTime": {
       "id": 5911,
       "description": "A steel infinity coaster featuring a vertical lift hill, a holding brake that suspends riders looking down, and five gravity-defying inversions.",
@@ -16973,20 +16959,6 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "1:30"
-    },
-    "Tidal Wave Bay": {
-      "id": 13614,
-      "description": "Swim and float in a massive, 750,000-gallon wave pool that alternates between gentle waves and rolling surf at Soak City.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Knott's",
-      "year_manufactured": "2007",
-      "type": "Wave Pool",
-      "land": "Knott's Soak City",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
     },
     "Timber Mountain Log Ride": {
       "id": 5926,
@@ -17945,18 +17917,6 @@
       "closable_weather": true,
       "duration": "2:15",
       "id": 15384
-    },
-    "Camp Jurassic™": {
-      "id": 6008,
-      "description": "A multi-level volcanic playground featuring climbing nets, caves, and interactive water cannons.",
-      "height_min_inches": 0,
-      "height_min_cm": 0,
-      "height_max_inches": null,
-      "height_max_cm": null,
-      "manufacturer": "Universal Creative",
-      "year_manufactured": "1999",
-      "type": "Play Area",
-      "land": "Jurassic Park"
     },
     "Ollivanders™ Experience in Hogsmeade™": {
       "id": 13098,
@@ -20250,20 +20210,6 @@
     }
   },
   "160": {
-    "Badhuys indoor splash pool": {
-      "id": 8235,
-      "description": "An indoor water play area at the Efteling Bosrijk holiday village, featuring water jets, small slides, and interactive water elements for young children.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Efteling",
-      "year_manufactured": "2015",
-      "type": "Water Play Area",
-      "land": "Efteling Bosrijk",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "Self-Paced"
-    },
     "Baron 1898": {
       "id": 6170,
       "description": "A thrilling dive coaster themed to a 19th-century gold mine, plunging riders down a vertical, 37.5-meter drop into a smoke-filled mining shaft.",
@@ -20342,20 +20288,6 @@
       "manufacturer": "Efteling / BHS",
       "year_manufactured": "1993",
       "type": "Suspended Dark Ride",
-      "land": "Marerijk",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "6:00"
-    },
-    "Droomvlucht VR": {
-      "id": 6265,
-      "description": "A virtual reality translation of the classic Droomvlucht dark ride, designed specifically for guests with disabilities so they can experience the ride in real time.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Efteling",
-      "year_manufactured": "2018",
-      "type": "Virtual Reality Experience",
       "land": "Marerijk",
       "express_pass_supported": false,
       "single_rider": false,
@@ -20473,20 +20405,6 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "7:00"
-    },
-    "Nest!": {
-      "id": 8841,
-      "description": "An inclusive, themed outdoor play forest designed for children of all abilities, featuring wheelchair-accessible paths, slide structures, and swings.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Efteling",
-      "year_manufactured": "2021",
-      "type": "Play Playground",
-      "land": "Ruigrijk",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
     },
     "Pagode": {
       "id": 6182,
@@ -23949,18 +23867,6 @@
       "single_rider": true,
       "closable_weather": false,
       "duration": "4:30"
-    },
-    "Camp Jurassic™": {
-      "id": 13911,
-      "description": "An interactive multi-level indoor play playground with cargo nets, slides, and caves in Jurassic World.",
-      "height_min_inches": 0,
-      "height_min_cm": 0,
-      "height_max_inches": null,
-      "height_max_cm": null,
-      "manufacturer": "Universal Creative",
-      "year_manufactured": "2021",
-      "type": "Play Area",
-      "land": "Jurassic World Isla Nublar"
     }
   },
   "334": {
