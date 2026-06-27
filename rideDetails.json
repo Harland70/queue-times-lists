@@ -7758,20 +7758,6 @@
       "closable_weather": true,
       "duration": "5:00"
     },
-    "Alice in Wonderland Maze": {
-      "id": 2987,
-      "description": "Wander through the whimsical hedge maze of the Queen of Hearts, filled with colorful characters, hidden secrets, and interactive displays inspired by Tim Burton's Alice in Wonderland film.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Walt Disney Imagineering",
-      "year_manufactured": "2016",
-      "type": "Walkthrough Attraction",
-      "land": "Fantasyland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "Self-Paced"
-    },
     "Hunny Pot Spin": {
       "id": 2988,
       "description": "Spin round and round inside giant hunny pots in a whimsical Hundred Acre Wood setting, controlling the rotation speed of your pot in this family-friendly attraction.",
@@ -21360,20 +21346,6 @@
       "closable_weather": true,
       "duration": "12:00"
     },
-    "Mickey's PhilharMagic": {
-      "id": 8001,
-      "description": "A comical 3D concert film in Fantasyland starring Donald Duck, featuring physical 4D effects and classic Disney musical numbers.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Imagineering",
-      "year_manufactured": "2011",
-      "type": "4D Film",
-      "land": "Fantasyland",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "12:00"
-    },
     "Monsters, Inc. Ride & Go Seek!": {
       "id": 8018,
       "description": "An interactive dark ride in Tomorrowland where guests use flashlights to find hidden monsters throughout Monstropolis.",
@@ -21555,20 +21527,6 @@
       "single_rider": false,
       "closable_weather": true,
       "duration": "1:30"
-    },
-    "Toon Park": {
-      "id": 8020,
-      "description": "A soft outdoor playground in Toontown where toddlers and small children can crawl and play on soft sculpture animals.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Imagineering",
-      "year_manufactured": "1996",
-      "type": "Playground Area",
-      "land": "Toontown",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": true,
-      "duration": "Self-Paced"
     },
     "Western River Railroad": {
       "id": 7988,
@@ -21977,20 +21935,6 @@
       "single_rider": false,
       "closable_weather": false,
       "duration": "5:00"
-    },
-    "Turtle Talk": {
-      "id": 8050,
-      "description": "An interactive digital theater show inside the S.S. Columbia where guests can have real-time conversations with Crush the sea turtle.",
-      "height_min_inches": null,
-      "height_min_cm": null,
-      "manufacturer": "Imagineering",
-      "year_manufactured": "2009",
-      "type": "Interactive Digital Show",
-      "land": "American Waterfront",
-      "express_pass_supported": false,
-      "single_rider": false,
-      "closable_weather": false,
-      "duration": "12:00"
     },
     "Venetian Gondolas": {
       "id": 8034,
