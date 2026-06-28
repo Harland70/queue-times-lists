@@ -22881,18 +22881,6 @@
       "year_manufactured": "2019",
       "type": "Children's Drop Tower",
       "land": "The LEGO Movie World"
-    },
-    "Cole’s Rock Climb": {
-      "id": 15060,
-      "description": "A horizontal, low-level rock climbing wall designed for kids in LEGO NINJAGO World.",
-      "height_min_inches": 0,
-      "height_min_cm": 0,
-      "height_max_inches": null,
-      "height_max_cm": null,
-      "manufacturer": "Custom",
-      "year_manufactured": "2017",
-      "type": "Children's Climbing Activity",
-      "land": "LEGO NINJAGO World"
     }
   },
   "284": {
