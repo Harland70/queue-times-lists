@@ -68,6 +68,7 @@ export const GOLD_LIST = [
   "Bumba's Playground",
   "Bushållplatsen",
   "Butterfly Bayou",
+  "Camp Duck Amuck Fun Fort",
   "Camp Jurassic",
   "Canada Far and Wide in Circle-Vision 360",
   "Canopy Capers",
